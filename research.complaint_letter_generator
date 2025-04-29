@@ -1,1 +1,33 @@
+# Week 1 - Research Notes
+################################################################################################
+## Focus Areas:
+- AI-based letter generation
+- Tone-based text formatting
+- Multilingual translation (Google Translate API)
+- Formal vs informal complaint structure
 
+## Challenges:
+- Choosing the best translation API
+- Tone control accuracy
+- Language support and limitations
+
+## Next Steps:
+- Build UI wireframes
+- Start Flask app structure
+- Integrate basic language selection feature
+####################################################################################################
+# QuickQuill: AI-Based Complaint Letter Generator
+
+🚀 **Week 1 Progress**  
+This week focused on researching the core functionalities of QuickQuill. The goal is to convert casual complaints into formal letters using AI, with support for tone, multi-language, and personalization.
+
+🧠 **Research Summary**
+- Explored tone classification methods.
+- Compared translation tools.
+- Outlined backend & UI structure.
+
+🧑‍🏫 Special thanks to **Yash Halwai (Mentor)** for his continuous support.
+
+🗓️ Program Duration: 3 Months  
+📅 Current Week: 1 (Research only)
+#######################################################################################################
